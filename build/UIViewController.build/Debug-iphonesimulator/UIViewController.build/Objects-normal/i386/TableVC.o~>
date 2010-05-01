@@ -1,0 +1,3 @@
+/Users/joop/IPhoneApps/UIViewController/Classes/TableVC.m: In function '-[TableVC tableView:didSelectRowAtIndexPath:]':
+/Users/joop/IPhoneApps/UIViewController/Classes/TableVC.m:183: warning: local declaration of 'viewControllers' hides instance variable
+/Users/joop/IPhoneApps/UIViewController/Classes/TableVC.m:184: warning: local declaration of 'viewControllers' hides instance variable
